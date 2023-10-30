@@ -1,1 +1,1 @@
-# cchq
+# Seasonal Mining HQ
