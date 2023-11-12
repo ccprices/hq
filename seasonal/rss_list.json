@@ -1132,7 +1132,7 @@
     {
         "item":{
             "name":"Ghost Soul",
-            "buy":"NO",
+            "buy":"YES",
             "double_point":"no",
             "operator":"*",
             "price":40,
