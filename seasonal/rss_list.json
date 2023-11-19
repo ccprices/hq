@@ -392,7 +392,7 @@
     {
         "item":{
             "name":"Crystal",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"*",
             "price":3,
@@ -402,7 +402,7 @@
     {
         "item":{
             "name":"Deep Mushroom",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"*",
             "price":3,
@@ -692,7 +692,7 @@
     {
         "item":{
             "name":"Diamond",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"*",
             "price":8,
@@ -712,7 +712,7 @@
     {
         "item":{
             "name":"Ruby",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"*",
             "price":35,
