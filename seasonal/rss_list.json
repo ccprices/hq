@@ -115,7 +115,7 @@
             "buy":"YES",
             "double_point":"yes",
             "operator":"/",
-            "price":1,
+            "price":2,
             "image":"resources/i_061"
         }
     },
@@ -395,7 +395,7 @@
             "buy":"NO",
             "double_point":"no",
             "operator":"*",
-            "price":3,
+            "price":2,
             "image":"resources/i_00463_cropped"
         }
     },
@@ -405,7 +405,7 @@
             "buy":"NO",
             "double_point":"no",
             "operator":"*",
-            "price":3,
+            "price":2,
             "image":"resources/i_00465_cropped"
         }
     },
@@ -1127,16 +1127,6 @@
             "operator":"*",
             "price":2000,
             "image":"resources/i_134"
-        }
-    },
-    {
-        "item":{
-            "name":"Ghost Soul",
-            "buy":"NO",
-            "double_point":"no",
-            "operator":"*",
-            "price":40,
-            "image":"wearables/error"
         }
     }
 ]
