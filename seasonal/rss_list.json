@@ -1092,7 +1092,7 @@
     {
         "item":{
             "name":"Purple Cube",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"*",
             "price":15,
@@ -1102,7 +1102,7 @@
     {
         "item":{
             "name":"Blue Cube",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"*",
             "price":200,
