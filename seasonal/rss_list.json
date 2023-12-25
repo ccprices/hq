@@ -312,7 +312,7 @@
     {
         "item":{
             "name":"Slow Geyser",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":4,
@@ -322,7 +322,7 @@
     {
         "item":{
             "name":"Fast Geyser",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":4,
