@@ -142,7 +142,7 @@
     {
         "item":{
             "name":"Green Goop",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":6,
@@ -412,7 +412,7 @@
     {
         "item":{
             "name":"MegaStalagmite",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":1,
@@ -422,7 +422,7 @@
     {
         "item":{
             "name":"Big OI Stalagmite",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":1,
@@ -432,7 +432,7 @@
     {
         "item":{
             "name":"Buncha Stalagmites",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":1,
@@ -442,7 +442,7 @@
     {
         "item":{
             "name":"JaggedRocks",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":1,
@@ -452,7 +452,7 @@
     {
         "item":{
             "name":"Stone Lava Cracks",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":2,
@@ -462,7 +462,7 @@
     {
         "item":{
             "name":"Cave Lava Cracks",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":2,
@@ -472,7 +472,7 @@
     {
         "item":{
             "name":"Deep Cave Wall",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":5,
@@ -482,7 +482,7 @@
     {
         "item":{
             "name":"Cave Wall",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":4,
@@ -492,7 +492,7 @@
     {
         "item":{
             "name":"Dirt",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":15,
