@@ -832,7 +832,7 @@
     {
         "item":{
             "name":"Wild Egg",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":15,
