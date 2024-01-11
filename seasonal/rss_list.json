@@ -852,7 +852,7 @@
     {
         "item":{
             "name":"Yumberry Bush",
-            "buy":"NO",
+            "buy":"YES",
             "double_point":"yes",
             "operator":"/",
             "price":1,
