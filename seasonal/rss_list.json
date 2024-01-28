@@ -663,9 +663,9 @@
         "item":{
             "name":"White Marble",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
-            "price":1,
+            "price":2,
             "image":"resources/i_00585_cropped"
         }
     },
@@ -673,9 +673,9 @@
         "item":{
             "name":"Blue Marble",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
-            "price":1,
+            "price":2,
             "image":"resources/i_00586_cropped"
         }
     },
@@ -685,7 +685,7 @@
             "buy":"YES",
             "double_point":"yes",
             "operator":"*",
-            "price":2,
+            "price":3,
             "image":"resources/i_00579_cropped"
         }
     },
@@ -803,7 +803,7 @@
         "item":{
             "name":"Mossy Tree Trunk",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":3,
             "image":"resources/i_00691_cropped"
