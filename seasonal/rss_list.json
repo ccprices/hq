@@ -114,8 +114,8 @@
             "name":"Beeswax",
             "buy":"YES",
             "double_point":"yes",
-            "operator":"/",
-            "price":2,
+            "operator":"*",
+            "price":3,
             "image":"resources/i_061"
         }
     },
@@ -163,7 +163,7 @@
         "item":{
             "name":"Red Flower",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":1,
             "image":"resources/i_00142_cropped"
@@ -173,7 +173,7 @@
         "item":{
             "name":"Yellow Flower",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":2,
             "image":"resources/i_00144_cropped"
@@ -183,7 +183,7 @@
         "item":{
             "name":"Blue Flower",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":2,
             "image":"resources/i_00143_cropped"
@@ -193,7 +193,7 @@
         "item":{
             "name":"Pink Flower",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":2,
             "image":"resources/i_00141_cropped"
@@ -203,7 +203,7 @@
         "item":{
             "name":"Wild Red Flower",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":2,
             "image":"resources/i_01042_cropped"
@@ -213,7 +213,7 @@
         "item":{
             "name":"Wild Blue Flower",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":2,
             "image":"resources/i_01041_cropped"
@@ -223,7 +223,7 @@
         "item":{
             "name":"Wild White Flower",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":2,
             "image":"resources/i_01043_cropped"
@@ -234,8 +234,8 @@
             "name":"Sulfur",
             "buy":"YES",
             "double_point":"yes",
-            "operator":"/",
-            "price":1,
+            "operator":"*",
+            "price":2,
             "image":"resources/i_01030_cropped"
         }
     },
@@ -244,8 +244,8 @@
             "name":"Mineral Deposit",
             "buy":"YES",
             "double_point":"yes",
-            "operator":"/",
-            "price":1,
+            "operator":"*",
+            "price":2,
             "image":"resources/i_01028_cropped"
         }
     },
@@ -285,7 +285,7 @@
             "buy":"YES",
             "double_point":"no",
             "operator":"/",
-            "price":4,
+            "price":1,
             "image":"resources/i_00692_cropped"
         }
     },
@@ -302,7 +302,7 @@
     {
         "item":{
             "name":"Shell",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":5,
@@ -342,7 +342,7 @@
     {
         "item":{
             "name":"Slime Splat",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":5,
@@ -365,7 +365,7 @@
             "buy":"YES",
             "double_point":"no",
             "operator":"/",
-            "price":4,
+            "price":2,
             "image":"resources/i_064"
         }
     },
@@ -542,7 +542,7 @@
     {
         "item":{
             "name":"Mountain",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":15,
@@ -553,7 +553,7 @@
         "item":{
             "name":"Soil",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":5,
             "image":"resources/i_00303_cropped"
@@ -653,7 +653,7 @@
         "item":{
             "name":"Dark Raw Stone",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"*",
             "price":2,
             "image":"resources/i_00630_cropped"
@@ -753,7 +753,7 @@
         "item":{
             "name":"Tree Trunk",
             "buy":"YES",
-            "double_point":"yes",
+            "double_point":"no",
             "operator":"/",
             "price":4,
             "image":"resources/i_00224_cropped"
@@ -763,7 +763,7 @@
         "item":{
             "name":"Palm Trunk",
             "buy":"YES",
-            "double_point":"yes",
+            "double_point":"no",
             "operator":"/",
             "price":4,
             "image":"resources/i_00217_cropped"
@@ -773,7 +773,7 @@
         "item":{
             "name":"Pine Trunk",
             "buy":"YES",
-            "double_point":"yes",
+            "double_point":"no",
             "operator":"/",
             "price":4,
             "image":"resources/i_00221_cropped"
@@ -783,7 +783,7 @@
         "item":{
             "name":"Dead Trunk",
             "buy":"YES",
-            "double_point":"yes",
+            "double_point":"no",
             "operator":"/",
             "price":3,
             "image":"resources/i_00229_cropped"
