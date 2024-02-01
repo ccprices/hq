@@ -53,10 +53,10 @@
 		width: 170px;
 		margin: 6px;
 		height: 50px;
-		border-radius: 8px;
+		border-radius: 12px;
 		/*background: linear-gradient(165deg, rgb(19, 48, 136) 19%, rgb(19, 78, 180) 20%, rgb(19, 78, 180) 80%, rgba(19, 48, 136) 81%);*/
 		background: rgb(19, 78, 180);
-		box-shadow: 3px 3px 3px black;
+		box-shadow: 2px 3px 2px black;
 		display: inline-block;
 		transition-duration: .5s;
 		font-size: 15px;
@@ -70,7 +70,7 @@
 		position: absolute;
 		top: 50%;
 		left: 15%;
-		transform: translate(-50%, -50%) scale(.8);
+		transform: translate(-50%, -50%) scale(.75);
 	}
 
 	.result {
@@ -231,7 +231,7 @@
 		position: absolute;
 		font-size: 30px;
 		color: white;
-		font-family: Luckiest Guy;
+		font-family: Verdana;
 		text-shadow: -1px -1px 0 rgb(0 0 0), -1px 0px 0 rgb(0 0 0), 1px -1px 0 rgb(0 0 0), 1px 0px 0 rgb(0 0 0), -1px 1px 0 rgb(0 0 0), 0px 1px 0 rgb(0 0 0), 0px -1px rgb(0 0 0), 1px 1px 0 rgb(0 0 0), 2px 2px 0 rgb(0 0 0), 1px 2px 0 rgb(0 0 0), 0px 2px 0 rgb(0 0 0), -1px 2px 0 rgb(0 0 0), 2px 1px 0 rgb(0 0 0), 2px 0px 0 rgb(0 0 0), 2px -1px 0 rgb(0 0 0);
 		top: 65px;
 	    left: 50%;
@@ -376,7 +376,7 @@
 		<div class="result">
 			<p class="text" id="total">0 Cubit</p>
 		</div>
-		<div class="result" style="z-index: 2;">
+		<div class="result" style="z-index: 2; background: linear-gradient(100deg, rgb(54 225 67) 19%, rgb(51 255 63) 20%, rgb(51 255 63) 80%, rgb(54 225 67) 81%)">
 			<p class="text" id="point">0 Points</p>
 		</div>
 	</div>
@@ -469,14 +469,14 @@
 		id = name.replace(/ /gi,"_").toLowerCase()
 
 		if (basic[item]["item"]["buy"] == "NO") {
-			$(".grid-container").append(`<div class='item' id='${id}' style="background: #FF2C2C; box-shadow: 3px 3px 3px black;"><span class='${img} sprite' style="left: 50%"></span><input style="display: none;" id=${id}><p>${name}</p></div>`)
+			$(".grid-container").append(`<div class='item' id='${id}' style="background: #FF2C2C; box-shadow: 2px 2px 3px black;"><span class='${img} sprite' style="left: 50%"></span><input style="display: none;" id=${id}><p>${name}</p></div>`)
 		}
 		if (basic[item]["item"]["buy"] == "YES") {
 			if (basic[item]["item"]["double_point"] == "no") {
 				$(".grid-container").append(`<div class='item'><span class='${img} sprite'></span><input class="input" id=${id} type="number" min="0" max="20000" step="1"><p>${name}</p></div>`)
 			}
 			if (basic[item]["item"]["double_point"] == "yes") {
-				$(".grid-container").append(`<div class='item' style="background: #48C51B; box-shadow: 3px 3px 3px black;"><span class='${img} sprite'></span><input class="input" id=${id} type="number" min="0" max="20000" step="1"><p>${name}</p></div>`)
+				$(".grid-container").append(`<div class='item' style="background: #48C51B; box-shadow: 2px 3px 2px black;"><span class='${img} sprite'></span><input class="input" id=${id} type="number" min="0" max="20000" step="1"><p>${name}</p></div>`)
 			}
 		}
 	}
