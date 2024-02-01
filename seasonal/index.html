@@ -14,6 +14,29 @@
 		animation: fadeIn 2s;
 	}
 
+	@media screen and (max-width: 767px) {
+		form input[type="number"] {
+			padding: 7px !important;
+			width: 145px !important;
+			heigh: 55px !important;
+		}
+
+		.item {
+			position: relative;
+			width: 220px !important;
+			height: 100px;
+			margin: 6px;
+			height: 55px !important;
+			border-radius: 12px;
+			/* background: linear-gradient(165deg, rgb(19, 48, 136) 19%, rgb(19, 78, 180) 20%, rgb(19, 78, 180) 80%, rgba(19, 48, 136) 81%); */
+			background: rgb(19, 78, 180);
+			box-shadow: 2px 3px 2px black;
+			display: inline-block;
+			transition-duration: .5s;
+			font-size: 20px;
+		}
+	}
+
 	@keyframes fadeIn {
 		0% {opacity: 0;}
 		100% {opacity: 1;}
