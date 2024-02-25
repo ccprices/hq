@@ -14,6 +14,16 @@
 		animation: fadeIn 2s;
 	}
 
+	@keyframes fadeIn {
+		0% {opacity: 0;}
+		100% {opacity: 1;}
+	}
+	
+	@font-face {
+		font-family: Luckiest Guy;
+		src: url('../ttf/luckiest-guy.ttf') format('truetype');
+	}
+
 	@media screen and (max-width: 767px) {
 		form input[type="number"] {
 			padding: 7px !important;
@@ -35,16 +45,6 @@
 			transition-duration: .5s;
 			font-size: 20px;
 		}
-	}
-
-	@keyframes fadeIn {
-		0% {opacity: 0;}
-		100% {opacity: 1;}
-	}
-	
-	@font-face {
-		font-family: Luckiest Guy;
-		src: url('../ttf/luckiest-guy.ttf') format('truetype');
 	}
 
 	.button {
