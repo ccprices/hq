@@ -1,7 +1,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Calculation HQ for Cubic Castles</title>
 	<link rel="stylesheet" href="./texture.css">
 </head>
@@ -14,16 +14,6 @@
 		background-image: url(./stars.png);
 		user-select: none;
 		animation: fadeIn 2s;
-	}
-
-	@keyframes fadeIn {
-		0% {opacity: 0;}
-		100% {opacity: 1;}
-	}
-	
-	@font-face {
-		font-family: Luckiest Guy;
-		src: url('../ttf/luckiest-guy.ttf') format('truetype');
 	}
 
 	@media screen and (max-width: 767px) {
@@ -47,6 +37,16 @@
 			padding: 7px !important;
 			width: 145px !important;
 		}
+	}
+
+	@keyframes fadeIn {
+		0% {opacity: 0;}
+		100% {opacity: 1;}
+	}
+	
+	@font-face {
+		font-family: Luckiest Guy;
+		src: url('../ttf/luckiest-guy.ttf') format('truetype');
 	}
 
 	.button {
