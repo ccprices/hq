@@ -752,7 +752,7 @@
     {
         "item":{
             "name":"Tree Trunk",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":4,
@@ -762,7 +762,7 @@
     {
         "item":{
             "name":"Palm Trunk",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":4,
@@ -772,7 +772,7 @@
     {
         "item":{
             "name":"Pine Trunk",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":4,
@@ -782,7 +782,7 @@
     {
         "item":{
             "name":"Dead Trunk",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":3,
