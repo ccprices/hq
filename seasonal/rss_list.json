@@ -492,7 +492,7 @@
     {
         "item":{
             "name":"Dirt",
-            "buy":"NO",
+            "buy":"YES",
             "double_point":"no",
             "operator":"/",
             "price":15,
