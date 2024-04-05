@@ -1112,7 +1112,7 @@
     {
         "item":{
             "name":"Green Cube",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"*",
             "price":800,
@@ -1122,7 +1122,7 @@
     {
         "item":{
             "name":"Golden Cube",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"*",
             "price":2000,
