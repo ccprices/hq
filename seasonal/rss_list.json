@@ -102,7 +102,7 @@
     {
         "item":{
             "name":"Cotton",
-            "buy":"NO",
+            "buy":"YES",
             "double_point":"yes",
             "operator":"/",
             "price":6,
@@ -812,7 +812,7 @@
     {
         "item":{
             "name":"Any Leaves",
-            "buy":"NO",
+            "buy":"YES",
             "double_point":"no",
             "operator":"/",
             "price":20,
@@ -822,7 +822,7 @@
     {
         "item":{
             "name":"Sticks",
-            "buy":"NO",
+            "buy":"YES",
             "double_point":"no",
             "operator":"/",
             "price":40,
