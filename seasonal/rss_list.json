@@ -331,7 +331,7 @@
     },
     {
         "item":{
-            "name":"Slimeball",
+            "name":"Slime Splat",
             "buy":"YES",
             "double_point":"no",
             "operator":"/",
@@ -341,7 +341,7 @@
     },
     {
         "item":{
-            "name":"Slime Splat",
+            "name":"Slimeball",
             "buy":"NO",
             "double_point":"no",
             "operator":"/",
